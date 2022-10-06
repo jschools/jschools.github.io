@@ -1,0 +1,13 @@
+{
+ "hello": "andyp",
+ "this": [
+   "is",
+   "a",
+   "hosted",
+   "json",
+   "file"
+ ],
+ "and": {
+   "itWasEasy": true
+ }
+}
